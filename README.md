@@ -6,7 +6,7 @@ Hangman is a popular yet grim puzzle game. A cruel computer hides a word from yo
 Jetbrains Academy Python Course
 
 ---
-There are 8 stages in this project. I have given problem statements of all the stages on separate PDF files. Similarly, the solutions of these stages are provided on individual python files. 
+There are 8 stages in this project. I have provided the problem statements of all the stages on separate PDF files. Similarly, the solutions of these stages are provided on individual python files. 
 ___
 
 ### Learning outcomes
