@@ -9,5 +9,7 @@ Jetbrains Academy Python Course
 The project is divided into 8 stages. I have provided the problem statements of each stage on seperate PDF files. Similary, the solution of each stage is also provided on seperate python files. 
 ___
 
+### Learning outcomes
+With functions, loops, lists and other variables, this is a great project for Python basics. As a cherry on top, it even includes a random module. 
 
 **PLEASE IGNORE THE 'OTHER FILES' FOLDER**
